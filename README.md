@@ -4,5 +4,7 @@
 
 **TensorFlow:** TensorFlow 相关的内容
 
+**Algorithm:** 学习算法中的相关内容
+
 **CampuShop1.0:** 一个 o2o 项目学习过程的记录内容
 
