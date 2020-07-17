@@ -6,6 +6,8 @@
 
 **CampuShop1.0:** 一个 o2o 项目学习过程的记录内容
 
+**CoverImg：**用于存放封面图片
+
 **GraduationProject:** 毕业设计的相关内容
 
 **MyKnowledgeBase:** 个人知识库相关内容
